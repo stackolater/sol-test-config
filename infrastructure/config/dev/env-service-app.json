@@ -1,0 +1,10 @@
+"Environment": [
+  {
+    "Name": "ResolveVar",
+    "Value": "{{resolve:ssm:ResolveVar:1}}"
+  },
+  {
+    "Name": "message",
+    "Value": "This is a message"
+  }
+]
