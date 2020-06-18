@@ -1,0 +1,14 @@
+{
+  "Layers": // parse error
+    {
+        "LayerName": "core",
+        "Description": "The CORE VPC Layer",
+        "Components": [
+          {
+            "StackName": "vpc",
+            "Component": "vpc"
+          }
+        ]
+    }
+  ]
+}
