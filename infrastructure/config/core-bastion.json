@@ -2,17 +2,5 @@
   {
     "ParameterKey": "VPCStackName",
     "ParameterValue": "core-vpc"
-  },
-  {
-    "ParameterKey": "RemoteCIDRBlock",
-    "ParameterValue": "0.0.0.0/0"
-  },
-  {
-    "ParameterKey": "KeyPairName",
-    "ParameterValue": "stackolater"
-  },
-  {
-    "ParameterKey": "BastionInstanceType",
-    "ParameterValue": "t2.nano"
   }
 ]
