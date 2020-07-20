@@ -1,6 +1,6 @@
 [
   {
-    "ParameterKey": "VPCCIDRROOT",
-    "ParameterValue": "10.2"
+    "ParameterKey": "EnvBucket",
+    "ParameterValue": "foo"
   }
 ]
