@@ -6,5 +6,9 @@
   {
     "Name": "message",
     "Value": "This is a message"
+  },
+  {
+    "Name": "number",
+    "Value": 1
   }
 ]
