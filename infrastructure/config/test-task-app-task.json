@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "VPCStackName",
+    "ParameterValue": "task-vpc"
+  },
+  {
+    "ParameterKey": "EnvironmentType",
+    "ParameterValue": "test"
+  },
+  {
+    "ParameterKey": "ServiceName",
+    "ParameterValue": "app-task"
+  },
+  {
+    "ParameterKey": "EnvBucket",
+    "ParameterValue": "foo"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "VPCStackName",
+    "ParameterValue": "task-vpc"
+  },
+  {
+    "ParameterKey": "EnvironmentType",
+    "ParameterValue": "test"
+  }
+]
