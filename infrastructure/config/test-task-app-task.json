@@ -8,6 +8,10 @@
     "ParameterValue": "test"
   },
   {
+    "ParameterKey": "ImageUrl",
+    "ParameterValue": "1234.dkr.ecr.eu-west-1.amazonaws.com/fake-task:master"
+  },
+  {
     "ParameterKey": "ServiceName",
     "ParameterValue": "app-task"
   },
