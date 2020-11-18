@@ -1,6 +1,6 @@
 [
   {
     "ParameterKey": "VPCCIDRROOT",
-    "ParameterValue": "10.6.0.0/16"
+    "ParameterValue": "10.4.0.0/16"
   }
 ]
