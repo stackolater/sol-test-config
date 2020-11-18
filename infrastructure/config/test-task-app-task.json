@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "VPCStackName",
-    "ParameterValue": "task-vpc"
+    "ParameterValue": "test-task-vpc"
   },
   {
     "ParameterKey": "EnvironmentType",
