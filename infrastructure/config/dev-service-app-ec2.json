@@ -53,6 +53,6 @@
   },
   {
     "ParameterKey": "LaunchType",
-    "ParameterValue": "FARGATE"
+    "ParameterValue": "EC2"
   }
 ]

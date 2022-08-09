@@ -1,6 +1,14 @@
 [
   {
     "ParameterKey": "VPCCIDRROOT",
-    "ParameterValue": "10.6.0.0/16"
+    "ParameterValue": "10.4"
+  },
+  {
+    "ParameterKey": "HasNatGateway",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "HasNatInstance",
+    "ParameterValue": "false"
   }
 ]
