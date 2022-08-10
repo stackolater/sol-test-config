@@ -1,0 +1,42 @@
+[
+  {
+    "ParameterKey": "VPCStackName",
+    "ParameterValue": "core-vpc"
+  },
+  {
+    "ParameterKey": "ServiceName",
+    "ParameterValue": "app"
+  },
+  {
+    "ParameterKey": "ContainerPort",
+    "ParameterValue": "8080"
+  },
+  {
+    "ParameterKey": "ImageUrl",
+    "ParameterValue": "123456789.dkr.ecr.eu-west-1.amazonaws.com/app:test"
+  },
+  {
+    "ParameterKey": "ContainerCpu",
+    "ParameterValue": "256"
+  },
+  {
+    "ParameterKey": "ContainerMemory",
+    "ParameterValue": "512"
+  },
+  {
+    "ParameterKey": "DesiredCount",
+    "ParameterValue": "1"
+  },
+  {
+    "ParameterKey": "EnvironmentType",
+    "ParameterValue": "dev"
+  },
+  {
+    "ParameterKey": "LaunchType",
+    "ParameterValue": "FARGATE"
+  },
+  {
+    "ParameterKey": "EnvBucket",
+    "ParameterValue": "stackolater-test-bucket"
+  }
+]
