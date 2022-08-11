@@ -1,9 +1,5 @@
 [
   {
-    "ParameterKey": "EnvironmentType",
-    "ParameterValue": "dev"
-  },
-  {
     "ParameterKey": "BucketName",
     "ParameterValue": "stackolater"
   }
