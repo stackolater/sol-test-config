@@ -13,7 +13,7 @@
   },
   {
     "ParameterKey": "ImageUrl",
-    "ParameterValue": "123456789.dkr.ecr.eu-west-1.amazonaws.com/app:test"
+    "ParameterValue": "docker/hello-world:latest"
   },
   {
     "ParameterKey": "ContainerCpu",
@@ -33,7 +33,7 @@
   },
   {
     "ParameterKey": "LaunchType",
-    "ParameterValue": "FARGATE"
+    "ParameterValue": "EC2"
   },
   {
     "ParameterKey": "EnvBucket",
