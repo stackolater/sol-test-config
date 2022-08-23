@@ -1,15 +1,14 @@
 {
   "Layers": [
     {
-        "LayerName": "core",
-        "Description": "The CORE VPC Layer",
-        "Components": [
-          {
-            "StackName": "vpc",
-            "GitRef": "0e94559d641cccc64f7eae190b5b54771a30b2c7",
-            "Component": "vpc"
-          }
-        ]
+      "LayerName": "core",
+      "Description": "The CORE VPC Layer",
+      "Components": [
+        {
+          "StackName": "vpc",
+          "Component": "vpc"
+        }
+      ]
     }
   ]
 }
